@@ -4,3 +4,6 @@ Coursera Project - Writing a Unit test with Jest
 Needs the jest npm package to be installed
 run the following command line:
 "npm install --save-dev jest"
+
+run the test with:
+ "npm run test" 
